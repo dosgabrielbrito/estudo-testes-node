@@ -1,0 +1,23 @@
+{
+  "name": "estudo-testes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosgabrielbrito/estudo-testes-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosgabrielbrito/estudo-testes-node/issues"
+  },
+  "homepage": "https://github.com/dosgabrielbrito/estudo-testes-node#readme",
+  "devDependencies": {
+    "globals": "^15.9.0"
+  }
+}
